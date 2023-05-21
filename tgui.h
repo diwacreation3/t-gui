@@ -9,8 +9,8 @@ Github: github.com/diwacreation3
 #include<windows.h>
 void Position(int x, int y){
 COORD c;
-c.X= x; //horizontal coordinate Row
-c.Y = y; //vertical cordinate Column
+c.X= x; //horizontal coordinate Column
+c.Y = y; //vertical cordinate Row
 SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),c);
 
 }

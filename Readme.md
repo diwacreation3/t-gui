@@ -28,8 +28,14 @@ use this
 //example 
 Position(30,4); 
 ```
+Here is the example:-
+ <br>
+![](/snap/snap-2.png) 
+<br>
+
+
 where 30 is x and 4 is y which represents x,y cordinate of console. 
-In sort X is Row and Y is Column
+In sort X is Column and Y is Row
 ## About header file 👀
 ``` c
 #include<windows.h>
